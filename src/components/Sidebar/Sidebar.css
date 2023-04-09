@@ -2,7 +2,7 @@
     flex: 1;
     border: 0.5px solid rgb(230, 227, 227);
     min-height: 100vh;
-    background-color: white;
+    background-color: rgb(218, 215, 215);
   }
   
   .top {
@@ -14,9 +14,9 @@
   }
   
   .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #6439ff;
+    font-size: 36px;
+    font-weight: 900;
+    color: #902424;
   }
   
   hr {
@@ -50,12 +50,12 @@
   }
   
   li:hover {
-    background-color: #ece8ff;
+    background-color: #d1a9a6;
   }
   
   .icon {
     font-size: 18px;
-    color: #7451f8;
+    color: #9c291f;
   }
   
   span {

@@ -31,11 +31,11 @@ const Navbar = () => {
                         </div>
                         <div className="item">
                             <NotificationsNoneOutlinedIcon className="Icon" />
-                            <div className="counter">1</div>
+                            <div className="counter">4</div>
                         </div>
                         <div className="item">
                             <ChatBubbleOutlineOutlinedIcon className="Icon" />
-                            <div className="counter">2</div>
+                            <div className="counter">3</div>
                         </div>
                         <div className="item">
                             <ListOutlinedIcon className="Icon" />

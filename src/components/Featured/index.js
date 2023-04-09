@@ -44,7 +44,7 @@ const Featured = () => {
                         />
                     </diV>
                     <p className="para">Total sales made this month</p>
-                    <p className="amount">₹ {dashboardOrderDetails.totalRevenueFromOrders} </p>
+                    <p className="amount">₹ {dashboardOrderDetails.totalRevenueFromOrders} </p><br/>
                     <p className="desc">Total sales to be achieved this month</p>
                     <div className="summary">
                         <div className="summary_item">
